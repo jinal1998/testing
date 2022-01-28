@@ -1,0 +1,12 @@
+api\com\DataService.class
+api\com\Doctors.class
+api\com\CheckClinic.class
+api\com\resource\PingResource.class
+api\com\Clinic.class
+api\com\CheckOnboarding.class
+api\com\BaseClassApi.class
+api\com\CheckDoctors.class
+api\com\Onboarding.class
+api\com\CheckPaymentplans.class
+api\com\Paymentplans.class
+api\com\StreamLambdaHandler.class
