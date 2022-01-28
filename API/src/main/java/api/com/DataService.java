@@ -66,7 +66,7 @@ public class DataService
 	            {
 	            	 CheckDoctors insert=new CheckDoctors();
 		   		     insert.setData(null);
-		   		 	 insert.setMessage("No such data in lists");
+		   		 	 insert.setMessage("No such data in list");
 		   		 	 insert.setStatus("404");
 		   			 return insert;
 	            }
